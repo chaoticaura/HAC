@@ -1,3 +1,11 @@
+Chaotic's Fork of HAC:
+Planned Changes:
+    +Add Support for DarkRP and Others
+    +Use a more global banlist
+    -Remove unfair bans
+    -More
+
+
 ```
 === Index ===
 ./Backdoor_Busting - Exposing workshop backdoors, then spamming their logs
@@ -84,7 +92,7 @@ Part of the reason I'm releasing all this is
 
 - Because engine-based C++ cheats like in CSS are more common for GMod now, it's only a matter of time before increasing numbers of cheaters use them. All it takes is a C++-based Sethhack-like cheat, and it'll be 2012 all over again.
 - Due to Garry's server browser, my server has been empty more times than it's had players. See http://unitedhosts.org/bar/end for more information.
-- It's going to cost another £480 to renew a server that no-one plays on.
+- It's going to cost another Â£480 to renew a server that no-one plays on.
 - Even when the server was running, people would rather play on cheater-infested DarkRP hosted by 12yo kids who pay to be admin.
 - GMod isn't the fun sandbox game it used to be back in 2007.
 - This CoderHire crap is ruining GMod. It used to be about free & open user-made content, now it's about selling the latest shitty addons for DarkRP.
