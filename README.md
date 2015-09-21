@@ -1,9 +1,9 @@
-Chaotic's Fork of HAC:
+Chaotic's Fork of HAC
 Planned Changes:
-    +Add Support for DarkRP and Others
-    +Use a more global banlist
-    -Remove unfair bans
-    -More
+[Add Support for DarkRP and Others]
+[Use a more global banlist]
+[Remove unfair bans]
+[More]
 
 
 ```
